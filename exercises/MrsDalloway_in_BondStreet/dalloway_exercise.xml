@@ -59,7 +59,7 @@
          <div>
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
-            <head>MRS DALLOWAY IN BOND STREET</head>
+            <head><title cert="high" level="a" xml:space="default">MRS DALLOWAY IN BOND STREET</title></head>
             <byline>BY <persName cert="high" role="aut" type="real">VIRGINIA WOOLF</persName></byline>
 
 
@@ -70,7 +70,7 @@
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
                said about us than that we walk the streets of <placeName>Westminster</placeName>. Big Ben too is nothing
-               but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
+               but steel rods consumed by rust were it not for the care of <orgName>H. M.'s Office of Works</orgName>.
                Only for <persName>Mrs Dalloway</persName> the moment was complete; for <persName>Mrs Dalloway</persName> June was fresh. A
                happy childhood—and it was not to his daughters only that <persName cert="high" type="fictional">Justin Parry</persName> had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
